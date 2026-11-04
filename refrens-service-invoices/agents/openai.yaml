@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refrens Service Invoices"
+  short_description: "Draft detailed service invoices and create them in Refrens"
+  default_prompt: "Use $refrens-service-invoices to draft an invoice from my client billing details and services, then create or update it in Refrens after I approve."
